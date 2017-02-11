@@ -3,7 +3,7 @@
 /*TODO: Add your structure here*/
 
 struct Person {
-  char *name;
+  char name[30];
   int age;
   char number[30];
 };

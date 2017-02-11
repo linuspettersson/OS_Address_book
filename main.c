@@ -5,4 +5,4 @@ int main(void) {
   for (int i = 0, i < numOfPeople, i++) {
     data_entry(&address_book[i]);
   }
-  print_address_book(&address_book);
+  print_address_book(address_book);
